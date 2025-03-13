@@ -58,7 +58,7 @@ if st.button("Generate Password"):
     else:
         st.write(":red[Your password is Extremely Weak]")
 
-    st.write(f"this is your password strength {pass_strength}")
+    # st.write(f"this is your password strength {pass_strength}")
 
         
 
